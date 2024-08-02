@@ -1,6 +1,6 @@
 RCTFN은 파일 구성을 더 편리하게 하기 위해 만들어진 간단한 파이썬 스크립트입니다.
 
-[한국어 버전]()과 [영어 버전]()이 있습니다.
+[한국어 버전](https://github.com/oil-lamp-cat/Rename-Contents-To-Folder-Name/blob/1.0.0/readme_kr.md)과 [영어 버전](https://github.com/oil-lamp-cat/Rename-Contents-To-Folder-Name/blob/1.0.0/readme.md)이 있습니다.
 
 dist 폴더에서 main_language.py를 실행할 수 있습니다.
 

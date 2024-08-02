@@ -1,6 +1,6 @@
 RCTFN is just a Python script made to make file organization more convenient.
 
-There is a Korean version and an English version.
+There is a [Korean version](https://github.com/oil-lamp-cat/Rename-Contents-To-Folder-Name/blob/1.0.0/readme_kr.md) and an [English version](https://github.com/oil-lamp-cat/Rename-Contents-To-Folder-Name/blob/1.0.0/readme.md).
 
 You can run the main_language.py in the dist folder.
 
